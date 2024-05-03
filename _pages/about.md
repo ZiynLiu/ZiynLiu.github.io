@@ -22,9 +22,9 @@ I am now a master student in the [School of Land Engineering](https://sle.chd.ed
 My research interest includes land use, carbon emission and machine learning application. I have published 3 papers in journals and conferences.
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Educations
+- **M.S.** *2022.09-2024.06 (now)*, Chang'an University, Xi'an, Land Resource Management;
+- **B.S.** *2018.09-2022.06*, Chang'an University, Xi'an, Land Resource Management;
 
 # 📝 Publications 
 
