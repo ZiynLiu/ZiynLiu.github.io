@@ -35,11 +35,17 @@ My research interest includes land use, carbon emission and machine learning app
 
 **Ziyan Liu**, Ling Han*, Ming Liu
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGRASS Conference 2023</div><img src='images/ESPR.png' alt="sym" width="100%"></div></div>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGRASS Conference 2023</div><img src='images/IGARSS2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Spatiotemporal disparity and environmental inequality in fossil fuel carbon emissions in china: 2010-2019](https://ieeexplore.ieee.org/document/10282947) 
 Ming Liu\*, **Ziyan Liu\***, Gaoxiang Zhou, Ying Wang, Xuancheng Liu, Ling Han
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS Conference 2022</div><img src='images/ESPR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
