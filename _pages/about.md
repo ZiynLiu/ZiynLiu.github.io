@@ -59,7 +59,7 @@ Ming Liu\*, Gaoxiang Zhou, **Ziyan Liu**, Ling Han, Jonathan Li
 </div>
 </div>
 
-[under review] High-resolution carbon emission mapping and spatial-temporal analysis based on multi-source geographic data: A case study in Xi’an City, China 
+[**under review**] High-resolution carbon emission mapping and spatial-temporal analysis based on multi-source geographic data: A case study in Xi’an City, China 
 
 **Ziyan Liu**, Ling Han*, Ming Liu
 
