@@ -23,7 +23,7 @@ My research interest includes land use, carbon emission and machine learning app
 
 
 # 📖 Educations
-- **M.S.** *2022.09-2024.06 (now)*, Chang'an University, Xi'an, Land Resource Management;
+- **M.S.** *2022.09-2025.06 (now)*, Chang'an University, Xi'an, Land Resource Management;
 - **B.S.** *2018.09-2022.06*, Chang'an University, Xi'an, Land Resource Management;
 
 # 📝 Publications 
