@@ -33,9 +33,7 @@ My research interest includes land use, carbon emission and machine learning app
 
 [Spatiotemporal characteristics of carbon emissions in Shaanxi, China, during 2012–2019: a machine learning method with multiple variables](https://www.researchgate.net/publication/372247112_Spatiotemporal_characteristics_of_carbon_emissions_in_Shaanxi_China_during_2012-2019_a_machine_learning_method_with_multiple_variables)
 
-<font color= #008000>
 **Ziyan Liu**, Ling Han*, Ming Liu
-</font>
 
 </div>
 </div>
