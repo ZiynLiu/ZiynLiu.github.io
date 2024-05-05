@@ -22,7 +22,11 @@ I was born and grown in Anqing, Anhui Province, China. Now, I am a master studen
 My research interest includes **land use, carbon emission and machine learning application in geography**. 
 
 My skills include:
+
+![arcgis](https://img.shields.io/badge/arcgis-2C7AC3?style=flat-square&logo=arcgis&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)
+![googleearthengine](https://img.shields.io/badge/googleearthengine-4285F4?style=flat-square&logo=googleearthengine&logoColor=white)
+
 
 # 📖 Educations
 - **M.S.** *2022.09-2025.06 (now)*, Chang'an University, Xi'an, Land Resource Management;
@@ -39,7 +43,8 @@ My skills include:
 </div>
 <div class='paper-box-text' markdown="1">
 
-The research objective of this 
+Conducted by **Ziyan Liu**, Ling Han, Ming Liu
+In this project, we 
 
 </div><div markdown="1">
 
