@@ -19,42 +19,24 @@ redirect_from:
 
 I was born and grown in Anqing, Anhui Province, China. Now, I am a master student in the [Chang'an University (CHU)](https://www.chd.edu.cn/), surpervised by [Prof. Ling Han](https://js.chd.edu.cn/sle/hl103/list.htm). I received the bachelor's Degree (2018-2022) from the [School of Land Engineering](https://sle.chd.edu.cn/), Chang'an University,China, supervised by Prof. Ling Han and [Vice Prof.Ming Liu](https://js.chd.edu.cn/sle/lm2/list.htm).
 
-My research interest includes **land use, carbon emission and machine learning application in geography**. 
+### My research interest includes:
 
-My skills include:
+land use, carbon emission and machine learning application in geography. 
+
+### My skills include:
 
 ![arcgis](https://img.shields.io/badge/arcgis-2C7AC3?style=flat-square&logo=arcgis&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)
 ![googleearthengine](https://img.shields.io/badge/googleearthengine-4285F4?style=flat-square&logo=googleearthengine&logoColor=white)
+![python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+![microsoftpowerpoint](https://img.shields.io/badge/microsoftpowerpoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
+![microsoftword](https://img.shields.io/badge/microsoftword-2B579A?style=flat-square&logo=microsoftword&logoColor=white)
+![microsoftexcel](https://img.shields.io/badge/microsoftexcel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 # 📖 Educations
 - **M.S.** *2022.09-2025.06 (now)*, Chang'an University, Xi'an, Land Resource Management;
 - **B.S.** *2018.09-2022.06*, Chang'an University, Xi'an, Land Resource Management;
-
-# 🌏 Projects
-
-## Carbon Emission Estimation and Spatio-temporal Characteristics in Shaanxi Province
-
-<div class='paper-box'>
-<div class='paper-box-image'>
-<div class="badge">2021.12-2023.06</div>
-<img src='images/ESPR.png' alt="sym" width="100%">
-</div>
-<div class='paper-box-text' markdown="1">
-
-Conducted by **Ziyan Liu**, Ling Han, Ming Liu
-In this project, we 
-
-</div><div markdown="1">
-
-**Finished Works**:
-1. Perform the recognition and segmentation of surgical instruments and lesion tissues based on Yolov8, and determine the spatial position of the end of the surgical instruments.
-
-2. Build a vision and robotic arm fusion system, perform hand-eye calibration of cameras and robotic arms, and execute basic robot actions for visual servo.
-
-</div>
-</div>
 
 
 # 📝 Publications 
@@ -78,6 +60,8 @@ Global warming attributed to the emission of greenhouse gases has caused unprece
 
 Ming Liu\*, **Ziyan Liu\***, Gaoxiang Zhou, Ying Wang, Xuancheng Liu, Ling Han
 
+High carbon emissions (CE) have unbalanced the carbon cycle patterns on Earth, resulting in global warming and extreme weather events. However, the disparity and inequalities of carbon emissions have barely been explored from environmental justice perspective, which can help to formulate a more equitable carbon policy. Therefore, the satellite-based ODIAC dataset was adopted to first analyze the spatiotemporal characteristics of CE in China between 2010 and 2019; then the spatial disparities and environmental inequalities of CE were explored during the study period. The results show that CE in China increased by 13.74% during 2010-2019, with decadal mean of 91.49 million tons. The hotspots were observed in the eastern coastal and the northeastern regions. The spatial disparity decreased over the decade, with Theil index declining from 0.186 in 2010 to 0.163 in 2019. The inequality result indicates CE disproportionately affected populations living in low GDP per capita regions, while it became more equally distributed over time. The results suggest that the spatial and environmental inequality of CE need to be considered in policy formulation for a more equitable environment.
+
 </div>
 </div>
 
@@ -88,6 +72,7 @@ Ming Liu\*, **Ziyan Liu\***, Gaoxiang Zhou, Ying Wang, Xuancheng Liu, Ling Han
 
 Ming Liu\*, Gaoxiang Zhou, **Ziyan Liu**, Ling Han, Jonathan Li
 
+Air pollution, especially fine particulate matter (PM2.5), has attracted extensive attention due to its adverse impacts on public health. Although PM2.5 pollution was significantly reduced in China over time, while little is known how the spatial disparity of PM2.5 exposure has evolved, especially from both absolute and relative perspectives. Here, we estimate the long-term PM2.5 exposures in China based on satellite observations and convolutional neural network, and characterize the spatial disparity of PM2.5 exposure using Theil index and rank-rank relationship. The result shows that both PM2.5 exposure and absolute spatial disparity were substantially reduced between 2010 and 2019. The nation-wide concentrations (Theil index) declined from 48.0μg/m3 (0.13) to 35.5μg/m3 (0.054). The interprovincial disparities dominate the overall disparity in 2010, while the intra-provincial disparity contributed the most in 2019. However, while absolute disparities have diminished, relative disparities persist. PM2.5 exposures in the least 20th percentile polluted cities have increased over time, while exposures in other regions declined. On average, the more (less) polluted cities in 2010 were still the more (less) polluted cities in 2019 (except for the very most 2 percentile polluted cities), indicating that the population in more polluted cities still experiences more air pollution than others. Spatial pattern of relative disparity changes was also observed. Overall, understanding not only absolute spatial disparity but also relative disparity is required to help formulate targeted policies for an equitable environment, leaving nobody behind.
 
 </div>
 </div>
