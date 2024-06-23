@@ -117,16 +117,22 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
+
 # Defaults
 defaults:
-  # _about
+  # _pages
   - scope:
       path: ""
-      type: about
+      type: pages
     values:
       layout: default
       author_profile: true
-  # _pages
+  # _projects
   - scope:
       path: ""
       type: projects
