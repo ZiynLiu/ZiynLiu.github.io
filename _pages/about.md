@@ -97,6 +97,6 @@ Air pollution, especially fine particulate matter (PM2.5), has attracted extensi
 - *2023.11* **The Second Prize: ESRI Cup China University Students GIS Software Development Competition.** *(Rank:2/4)*
 
 # 🌟 Projects
-All of the projects can be seen in [Projects](_pages\Projects.md)
+All of the projects can be seen in [Projects](_pages\projects.md)
 ### Research Fields 1: Carbon emission estimation and representation
 - **Carbon emission estimation by multisource satellite data and machine learning methods**
