@@ -16,4 +16,6 @@ layout: default
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 <span class='anchor' id='projects'></span>
 
+{% include base_path %}
 
+{% for post in site.publications reversed %} {% include archive-single.html %} {% endfor %}
