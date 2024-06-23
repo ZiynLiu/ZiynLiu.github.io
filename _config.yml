@@ -119,10 +119,17 @@ kramdown:
 
 # Defaults
 defaults:
+  # _about
+  - scope:
+      path: ""
+      type: about
+    values:
+      layout: default
+      author_profile: true
   # _pages
   - scope:
       path: ""
-      type: pages
+      type: projects
     values:
       layout: default
       author_profile: true
