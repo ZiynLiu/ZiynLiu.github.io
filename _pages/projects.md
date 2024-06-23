@@ -3,6 +3,7 @@ permalink: /projects/
 title: "projects"
 excerpt: ""
 author_profile: true
+layout: default
 ---
 <span class='anchor' id='projects'></span>
 
