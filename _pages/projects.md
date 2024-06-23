@@ -1,6 +1,6 @@
 ---
 permalink: /projects/
-title: "projects"
+title: ""
 excerpt: ""
 author_profile: true
 layout: compress
