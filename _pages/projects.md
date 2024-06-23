@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /projections
 title: ""
 excerpt: ""
 author_profile: true
