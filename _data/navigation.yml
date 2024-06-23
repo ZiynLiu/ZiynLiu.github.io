@@ -1,37 +1,19 @@
 # main links links
-# main:
-#   - title: "About Me"
-#     url: "/#about-me"
-
-#   - title: "Educations"
-#     url: "/#-educations"
-
-#   - title: "Publications"
-#     url: "/#-publications"
-
-#   - title: "Honors and Awards"
-#     url: "/#-honors-and-awards"
-
-#   - title: "Competition"
-#     url: "/#-competition"
-
-#   - title: "Projects"
-#     url: /projects/
 main:
   - title: "About Me"
-    url: "/about/#about-me"
+    url: "/#about-me"
 
   - title: "Educations"
-    url: "/about/#-educations"
+    url: "/#-educations"
 
   - title: "Publications"
-    url: "/about/#-publications"
+    url: "/#-publications"
 
   - title: "Honors and Awards"
-    url: "/about/#-honors-and-awards"
+    url: "/#-honors-and-awards"
 
   - title: "Competition"
-    url: "/about/#-competition"
+    url: "/#-competition"
 
   - title: "Projects"
-    url: "/projects/"
+    url: /projects/
