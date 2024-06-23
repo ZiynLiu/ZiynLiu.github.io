@@ -119,9 +119,9 @@ kramdown:
 
 # Collections
 collections:
-  projects:
+  pages:
     output: true
-    permalink: /:collection/:path/
+    permalink: /pages/:path/
 
 # Defaults
 defaults:
