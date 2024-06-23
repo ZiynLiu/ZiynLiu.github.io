@@ -1,5 +1,4 @@
 ---
-collection: pages
 permalink: /
 title: ""
 excerpt: ""

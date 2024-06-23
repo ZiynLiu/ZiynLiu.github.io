@@ -1,9 +1,9 @@
 ---
-collection: projects
 permalink: /projects/
 title: "projects"
 excerpt: ""
 author_profile: true
+layout: default
 # redirect_from: 
 #   - /projects/
 #   - /projects.html
