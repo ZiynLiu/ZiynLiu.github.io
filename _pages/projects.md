@@ -3,9 +3,6 @@ permalink: /projects/
 title: "projects"
 excerpt: ""
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 <span class='anchor' id='projects'></span>
 
