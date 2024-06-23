@@ -19,19 +19,19 @@
 #     url: /projects/
 main:
   - title: "About Me"
-    url: "/pages/about/#about-me"
+    url: "/about/#about-me"
 
   - title: "Educations"
-    url: "/pages/about/#-educations"
+    url: "/about/#-educations"
 
   - title: "Publications"
-    url: "/pages/about/#-publications"
+    url: "/about/#-publications"
 
   - title: "Honors and Awards"
-    url: "/pages/about/#-honors-and-awards"
+    url: "/about/#-honors-and-awards"
 
   - title: "Competition"
-    url: "/pages/about/#-competition"
+    url: "/about/#-competition"
 
   - title: "Projects"
-    url: "/pages/projects/"
+    url: "/projects/"

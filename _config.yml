@@ -121,7 +121,10 @@ kramdown:
 collections:
   pages:
     output: true
-    permalink: /_pages/:path/
+    permalink: /:collection/:path/
+  projections:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
