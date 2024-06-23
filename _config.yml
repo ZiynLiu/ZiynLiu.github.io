@@ -8,6 +8,8 @@
 # Site Settings
 title                    : "Ziyan Liu"
 description              : "A master's student in the Land Resource Management program at Chang'an University. Focusing on land-use carbon emission. "
+url                      : https://ziynliu.github.io
+baseurl                  : ""
 repository               : "ZiynLiu/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
