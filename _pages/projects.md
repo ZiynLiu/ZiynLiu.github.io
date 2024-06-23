@@ -4,10 +4,9 @@ permalink: /projects/
 title: "projects"
 excerpt: ""
 author_profile: true
-layout: default
-redirect_from: 
-  - /projects/
-  - /projects.html
+# redirect_from: 
+#   - /projects/
+#   - /projects.html
 ---
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
