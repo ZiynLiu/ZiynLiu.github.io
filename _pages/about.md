@@ -19,7 +19,7 @@ redirect_from:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=848C74&repeat=false&random=false&width=435&lines=Welcome+to+Ziyan+Liu's+Homepage)](https://git.io/typing-svg)
 
-I was born and grown in Anqing, Anhui Province, China. Now, I am a master student in the [Chang'an University (CHU)](https://www.chd.edu.cn/), surpervised by [Prof. Ling Han](https://js.chd.edu.cn/sle/hl103/list.htm). I received the bachelor's Degree (2018-2022) from the [School of Land Engineering](https://sle.chd.edu.cn/), Chang'an University,China, supervised by Prof. Ling Han and [Associate Prof.Ming Liu](https://js.chd.edu.cn/sle/lm2/list.htm).
+I was born and grown in Anqing, Anhui Province, China. Now, I am a master student in the [Chang'an University (CHU)](https://www.chd.edu.cn/), supervised by [Prof. Ling Han](https://js.chd.edu.cn/sle/hl103/list.ht. I received the bachelor's Degree (2018-2022) from the [School of Land Engineering](https://sle.chd.edu.cn/), Chang'an University,China, supervised by Prof. Ling Han and [Associate Prof.Ming Liu](https://js.chd.edu.cn/sle/lm2/list.htm).
 
 ### My research interest includes:
 
@@ -96,3 +96,6 @@ Air pollution, especially fine particulate matter (PM2.5), has attracted extensi
 - *2023.12* **The Third Prize: China Graduate Students "Carbon Peaking & Carbon Neutrality" Innovation and Creativity Competition (CLEER)** *(Rank:2/5)*
 - *2023.11* **The Second Prize: ESRI Cup China University Students GIS Software Development Competition.** *(Rank:2/4)*
 
+# 🌟 Projects
+### Research Fields 1: Carbon emission estimation and representation
+- **Carbon emission estimation by multisource satellite data and machine learning methods**
