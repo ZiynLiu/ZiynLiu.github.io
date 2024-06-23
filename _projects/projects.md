@@ -1,4 +1,5 @@
 ---
+collection: projects
 permalink: /projects/
 title: "projects"
 excerpt: ""
