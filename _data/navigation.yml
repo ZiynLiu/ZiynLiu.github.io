@@ -18,5 +18,5 @@ main:
   - title: "Competition"
     url: "/#-competition"
 
-  # - title: "Projects"
-  #   url: /projects/
+  - title: "Projects"
+    url: /projections/
