@@ -121,7 +121,7 @@ kramdown:
 collections:
   pages:
     output: true
-    permalink: /pages/:path/
+    permalink: /_pages/:path/
 
 # Defaults
 defaults:
