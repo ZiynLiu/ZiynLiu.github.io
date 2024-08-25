@@ -41,7 +41,7 @@ land use, carbon emission and machine learning application in geography.
 - **B.S.** *2018.09-2022.06*, Chang'an University, Xi'an, Land Resource Management;
 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESPR Journal 2023</div><img src='images/ESPR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -91,7 +91,7 @@ Air pollution, especially fine particulate matter (PM2.5), has attracted extensi
 
 
 
-# 🪐 Competition
+## 🪐 Competitions
 - *2022.12* **The Third Prize: China Graduate Students "Carbon Peaking & Carbon Neutrality" Innovation and Creativity Competition (CLEER)** *(Rank:1/5)*
 - *2023.12* **The Third Prize: China Graduate Students "Carbon Peaking & Carbon Neutrality" Innovation and Creativity Competition (CLEER)** *(Rank:2/5)*
 - *2023.11* **The Second Prize: ESRI Cup China University Students GIS Software Development Competition.** *(Rank:2/4)*
