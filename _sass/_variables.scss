@@ -13,6 +13,14 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 0.5em;
 
 /* system typefaces */
+@font-face {
+   font-family: 'HarmonyOS Sans SC';
+   src: url('/assets/fonts/HarmonyOS-Sans-SC-Regular.woff2') format('woff2'),
+        url('/assets/fonts/HarmonyOS-Sans-SC-Regular.woff') format('woff');
+   font-weight: normal;
+   font-style: normal;
+}
+
 $serif                      : Georgia, Times, serif;
 $sans-serif                 : "HarmonyOS Sans SC",Trebuchet MS, Helvetica, sans-serif;
 // $sans-serif                 : Georgia, serif, sans-serif;

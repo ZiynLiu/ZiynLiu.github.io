@@ -39,13 +39,6 @@
 @import "vendor/font-awesome/solid";
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
-@font-face {
-    font-family: 'Harmony OS SC';
-    src: url('/assets/fonts/HarmonyOS-SC-Regular.woff2') format('woff2'),
-         url('/assets/fonts/HarmonyOS-SC-Regular.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
 @import "print";
 
 .paper-box {
