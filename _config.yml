@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ziyan Liu"
-description              : "Master's student in Land Resource Management. "
+description              : "A Master student major in Land Resource Management. "
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ziyan Liu"
+  name             : "Ziyan Liu (刘子彦)"
   avatar           : "/images/Profile.png"
   bio              : "Chang'an University"
   location         : "Xi'an, China"

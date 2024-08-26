@@ -17,13 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=34&pause=1000&color=B83945&width=435&lines=Welcome+to+Ziyan+Liu's+Homeapage)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=34&pause=1000&color=B83945&width=600&lines=Welcome+to+Ziyan+Liu's+Homeapage)](https://git.io/typing-svg)
 
-I was born and grown in Anqing, Anhui Province, China. Now, I am a master student in the [Chang'an University (CHU)](https://www.chd.edu.cn/), supervised by [Prof. Ling Han](https://js.chd.edu.cn/sle/hl103/list.htm). I received the bachelor's Degree (2018-2022) from the [School of Land Engineering](https://sle.chd.edu.cn/), Chang'an University,China, supervised by Prof. Ling Han and [Associate Prof.Ming Liu](https://js.chd.edu.cn/sle/lm2/list.htm).
+I was born and grown in Anqing, Anhui Province, China (安徽省安庆市). Now, I am a master student in the [Chang'an University (CHU)](https://www.chd.edu.cn/), supervised by [Prof. Ling Han](https://js.chd.edu.cn/sle/hl103/list.htm). I received the bachelor's Degree (2018-2022) from the [School of Land Engineering](https://sle.chd.edu.cn/), Chang'an University,China, supervised by Prof. Ling Han and [Associate Prof.   Ming Liu](https://js.chd.edu.cn/sle/lm2/list.htm).
 
 ### My research interest includes:
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Interest_field.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-land use, carbon emission and machine learning application in geography. 
+Currently, my research interests focus on the interplay among **Environment**, **Geography** and **Machine learning**, which can be described as:
+- **Multidisciplinary Research at the Nexus of Environment, Geography, and Machine Learning.** My research lies at the intersection of environmental science, geographical analysis, and machine learning. I employ advanced machine learning techniques such as BPNN and SHAP to improve the predictive accuracy and understanding of environmental phenomena, particularly focusing on CO₂ emissions and air pollution.
+- **Geographical Analysis for Sustainable Environmental Management.** My future work will involve leveraging geographical data to analyze land use patterns and their implications for Sustainable Development Goals (SDGs). This geographic-environmental integration helps in crafting strategies for sustainable land management and addressing key environmental challenges.
+- **Machine Learning in Environmental Impact Assessment.** I explore the application of machine learning in evaluating environmental impacts, with a particular emphasis on CO₂ emissions. By combining these approaches, I aim to provide data-driven insights that inform and enhance sustainability efforts on both regional and global scales.
+</div>
+</div>
 
 ### My skills include:
 
@@ -42,6 +49,14 @@ land use, carbon emission and machine learning application in geography.
 
 
 # 📝 Selected Publications 
+
+[**under review**] High-resolution carbon emission mapping and spatial-temporal analysis based on multi-source geographic data: A case study in Xi’an City, China 
+
+*Environmental Pollution*
+
+**Ziyan Liu**, Ling Han*, Ming Liu
+
+--------
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESPR Journal 2023</div><img src='images/ESPR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -79,24 +94,17 @@ Air pollution, especially fine particulate matter (PM2.5), has attracted extensi
 </div>
 </div>
 
-[**under review**] High-resolution carbon emission mapping and spatial-temporal analysis based on multi-source geographic data: A case study in Xi’an City, China 
 
-**Ziyan Liu**, Ling Han*, Ming Liu
 
 
 
 # 🎖 Honors and Awards
-- *2023.10* **National Scholarship for Graduated Students.**
-- *2022.10* **The First Prize Scholarship of CHU.**
+- 2023.10 National Scholarship for Graduated Students.
+- 2022.10 The First Prize Scholarship of CHU.
 
 
 
 ## 🪐 Competitions
-- *2022.12* **The Third Prize: China Graduate Students "Carbon Peaking & Carbon Neutrality" Innovation and Creativity Competition (CLEER)** *(Rank:1/5)*
-- *2023.12* **The Third Prize: China Graduate Students "Carbon Peaking & Carbon Neutrality" Innovation and Creativity Competition (CLEER)** *(Rank:2/5)*
-- *2023.11* **The Second Prize: ESRI Cup China University Students GIS Software Development Competition.** *(Rank:2/4)*
-
-# 🌟 Projects
-
-### Research Fields 1: Carbon emission estimation and representation
-- **Carbon emission estimation by multisource satellite data and machine learning methods**
+- 2022.12 The Third Prize: China Graduate Students "Carbon Peaking & Carbon Neutrality" Innovation and Creativity Competition (CLEER) (Rank:1/5)
+- 2023.12 The Third Prize: China Graduate Students "Carbon Peaking & Carbon Neutrality" Innovation and Creativity Competition (CLEER) (Rank:2/5)
+- 2023.11 The Second Prize: ESRI Cup China University Students GIS Software Development Competition. (Rank:2/4)
