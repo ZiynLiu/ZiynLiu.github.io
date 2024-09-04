@@ -68,7 +68,7 @@ Cities, contributing over 70% of global emissions, are key areas for climate cha
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESPR Journal 2023</div><img src='images/ESPR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Spatiotemporal characteristics of carbon emissions in Shaanxi, China, during 2012–2019: a machine learning method with multiple variables](https://www.researchgate.net/publication/372247112_Spatiotemporal_characteristics_of_carbon_emissions_in_Shaanxi_China_during_2012-2019_a_machine_learning_method_with_multiple_variables)
+[Spatiotemporal characteristics of carbon emissions in Shaanxi, China, during 2012–2019: a machine learning method with multiple variables](https://link.springer.com/article/10.1007/s11356-023-28692-6)
 
 *Environmental Science and Pollution Research*
 
