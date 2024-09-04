@@ -50,11 +50,19 @@ Currently, my research interests focus on the interplay among **Environment**, *
 
 # 📝 Selected Publications 
 
-[**under review**] High-resolution carbon emission mapping and spatial-temporal analysis based on multi-source geographic data: A case study in Xi’an City, China 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EP Journal 2024</div><img src='images/ESPR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[High-resolution carbon emission mapping and spatial-temporal analysis based on multi-source geographic data: A case study in Xi’an City, China](https://www.sciencedirect.com/science/article/pii/S0269749124015938#aep-article-footnote-id8)
 
 *Environmental Pollution*
 
 **Ziyan Liu**, Ling Han*, Ming Liu
+
+Cities, contributing over 70% of global emissions, are key areas for climate change mitigation. Heterogeneity within cities determines the need for spatialized urban emissions reduction policies. However, few studies have attempted to characterize the spatial distribution of carbon emissions at the urban scale. To address this issue, a novel mapping method was proposed, using Xi’an as an example to explore the spatial distribution of carbon emissions at the city scale. Firstly, multiple geospatial open-source data, such as point of interest (POI), road networks, and land use, were utilized to identify the locations of emission sources. High-resolution carbon emission distributions were then mapped by allocating emissions based on the Intergovernmental Panel on Climate Change (IPCC) methodology. The study employed Global Moran's I to analyze the changes in spatial heterogeneity at different resolutions. Additionally, the Local Indicators of Spatial Association index (LISA) and Standard Deviation Ellipses (SDE) were adopted to examine the spatiotemporal characteristics of carbon emissions in Xi’an. The results show that carbon emissions at Xi’an City rises from 45.112 million tons to 72.701 million tons between 2010-2021. The construction of multi-scale carbon emissions spatial distributions, with a resolution of up to 30m, allowed for a more detailed characterization of carbon emissions, especially in urban fringe areas. In addition, the results indicate that that urban carbon emissions exhibit the strongest spatial autocorrelation at a resolution of 350m. The study can provide a reference for the development of regional carbon emission reduction policies and spatial planning. In addition, the proposed spatialized method of city carbon emissions depends on open-source data, which allows it to have the potential for application in other cities.
+
+</div>
+</div>
 
 --------
 
@@ -62,6 +70,8 @@ Currently, my research interests focus on the interplay among **Environment**, *
 <div class='paper-box-text' markdown="1">
 
 [Spatiotemporal characteristics of carbon emissions in Shaanxi, China, during 2012–2019: a machine learning method with multiple variables](https://www.researchgate.net/publication/372247112_Spatiotemporal_characteristics_of_carbon_emissions_in_Shaanxi_China_during_2012-2019_a_machine_learning_method_with_multiple_variables)
+
+*Environmental Science and Pollution Research*
 
 **Ziyan Liu**, Ling Han*, Ming Liu
 

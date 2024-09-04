@@ -18,5 +18,5 @@ In this project, we propose a method for carbon emission estimation based on mul
 - Liu, Z., Han, L., Liu, M., 2023. Spatiotemporal characteristics of carbon emissions in shaanxi, china, during 2012–2019: a machine learning method with multiple variables. Environ. Sci. Pollut. Res. 30, 87535–87548. https://doi.org/10.1007/s11356-023-28692-6
 - The Third Prize: China Graduate Students “Carbon Peaking & Carbon Neutrality” Innovation and Creativity Competition (CLEER) (Rank:1/5)
 
-
 <img src="/images/CLEER2022.png" alt="sym" title="CLEER2022">
+
