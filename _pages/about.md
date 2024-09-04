@@ -50,7 +50,7 @@ Currently, my research interests focus on the interplay among **Environment**, *
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EP Journal 2024</div><img src='images/ESPR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EP Journal 2024</div><img src='images/EP2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [High-resolution carbon emission mapping and spatial-temporal analysis based on multi-source geographic data: A case study in Xi’an City, China](https://www.sciencedirect.com/science/article/pii/S0269749124015938#aep-article-footnote-id8)
@@ -64,7 +64,6 @@ Cities, contributing over 70% of global emissions, are key areas for climate cha
 </div>
 </div>
 
---------
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESPR Journal 2023</div><img src='images/ESPR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
