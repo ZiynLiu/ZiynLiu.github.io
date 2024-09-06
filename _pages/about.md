@@ -19,7 +19,7 @@ redirect_from:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ma+Shan+Zheng&size=30&duration=1&pause=9&color=B45253&center=true&vCenter=true&repeat=false&width=480&lines=%E8%BF%BD%E9%A3%8E%E8%B5%B6%E6%9C%88%E8%8E%AB%E5%81%9C%E7%95%99+%E5%B9%B3%E8%8A%9C%E5%B0%BD%E5%A4%84%E6%98%AF%E6%98%A5%E5%B1%B1)](https://git.io/typing-svg)
 
-I was born and grown in Anqing, Anhui Province, China (安徽省安庆市). Now, I am a master student in the [Chang'an University (CHU)](https://www.chd.edu.cn/), supervised by [Prof. Ling Han](https://js.chd.edu.cn/sle/hl103/list.htm). I received the bachelor's Degree (2018-2022) from the [School of Land Engineering](https://sle.chd.edu.cn/), Chang'an University,China, supervised by Prof. Ling Han and [Associate Prof.   Ming Liu](https://js.chd.edu.cn/sle/lm2/list.htm).
+I was born and grown in Anqing, Anhui Province, China (安徽省安庆市). Now, I am a master student in the [Chang'an University (CHU)](https://www.chd.edu.cn/), supervised by [Prof. Ling Han](https://js.chd.edu.cn/sle/hl103/list.htm). I received the bachelor's Degree (2018-2022) from the [School of Land Engineering](https://sle.chd.edu.cn/), Chang'an University,China.
 
 ### My research interest includes:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Interest_field.png' alt="sym" width="100%"></div></div>
