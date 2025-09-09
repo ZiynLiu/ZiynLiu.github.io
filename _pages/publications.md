@@ -9,6 +9,25 @@ author_profile: true
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=34&pause=1000&color=B83945&width=435&lines=Welcome+to+Ziyan+Liu's+Homeapage)](https://git.io/typing-svg)
 
+<!-- Sustainabel futures 2025 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EP Journal 2024</div><img src='/images/SF2025.png' alt="sym" width="300%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Revealing the non-linear and interacting effect of six subcategories’ construction land on energy-related carbon emissions based on interpretable machine learning: Evidence from 2859 counties in China](https://www.sciencedirect.com/science/article/pii/S2666188825006392?via%3Dihub)
+
+*Sustainable Futures*
+
+**Ziyan Liu**, Ling Han*, Liangzhi Li*
+
+Construction land, as the primary carrier of human industrial, residential, and transportation activities, represents a major source of carbon emissions. Exploring the impact of different types of construction land on carbon emissions is of critical importance for carbon reduction. Existing literature typically assesses the influence of different construction land types on carbon emissions at the block scale. While the block-scale analysis is limited by local environmental, complicating broader spatial impact assessments. In this study, we adopt advanced land use data from China's Third National Land Survey to measure the broad impact of different types of construction land on carbon emissions at county scale. The interpretable machine learning method was employed to analyze the global, local, and interactive effects of these construction land categories on carbon emissions. Our findings reveal that commercial, industrial, and residential lands exhibit positive associations with carbon emissions, while public facilities, special-use, and transportation lands demonstrate inhibitory effects. Importantly, the impact of construction land on emissions displays significant spatial heterogeneity. Industrial and commercial lands predominantly influence emissions in developed areas, whereas residential land's impact is more pronounced in developing regions. Furthermore, we observe that interactions between most types of construction land can inhibit carbon emissions, suggesting potential synergies in land use planning for emission reduction. These findings contribute to the broader understanding of how land use patterns influence carbon emissions and can inform more effective, targeted approaches to sustainable urban development and climate change mitigation.
+
+</div>
+</div>
+
+
+
+
+<!--Environmental Pollution 2024 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EP Journal 2024</div><img src='/images/EP2024.png' alt="sym" width="300%"></div></div>
 <div class='paper-box-text' markdown="1">
 
