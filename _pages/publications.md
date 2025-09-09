@@ -9,7 +9,7 @@ author_profile: true
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=34&pause=1000&color=B83945&width=435&lines=Welcome+to+Ziyan+Liu's+Homeapage)](https://git.io/typing-svg)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EP Journal 2024</div><img src='images/EP2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EP Journal 2024</div><img src='images/EP2024.png' alt="sym" width="300%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [High-resolution carbon emission mapping and spatial-temporal analysis based on multi-source geographic data: A case study in Xi’an City, China](https://www.sciencedirect.com/science/article/pii/S0269749124015938#aep-article-footnote-id8)
