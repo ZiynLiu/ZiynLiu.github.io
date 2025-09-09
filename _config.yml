@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ziyan Liu"
-description              : "A Master student major in Land Resource Management. "
+description              : "A PhD candidate major in Physical Geography."
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ziyan Liu (刘子彦)"
   avatar           : "/images/Profile.png"
-  bio              : "Chang'an University"
-  location         : "Xi'an, China"
+  bio              : "Chinese Academic of Sciences (CAS)"
+  location         : "Lanzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=mkLleBIAAAAJ&hl=en"
-  email            : "2022135032@chd.edu.cn"
+  email            : "ziyan_liu.01@foxmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
