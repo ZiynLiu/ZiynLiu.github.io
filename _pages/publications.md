@@ -9,7 +9,7 @@ author_profile: true
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=34&pause=1000&color=B83945&width=435&lines=Welcome+to+Ziyan+Liu's+Homeapage)](https://git.io/typing-svg)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EP Journal 2024</div><img src='images/EP2024.png' alt="sym" width="300%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EP Journal 2024</div><img src='/images/EP2024.png' alt="sym" width="300%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [High-resolution carbon emission mapping and spatial-temporal analysis based on multi-source geographic data: A case study in Xi’an City, China](https://www.sciencedirect.com/science/article/pii/S0269749124015938#aep-article-footnote-id8)
@@ -24,7 +24,7 @@ Cities, contributing over 70% of global emissions, are key areas for climate cha
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESPR Journal 2023</div><img src='images/ESPR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESPR Journal 2023</div><img src='/images/ESPR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Spatiotemporal characteristics of carbon emissions in Shaanxi, China, during 2012–2019: a machine learning method with multiple variables](https://link.springer.com/article/10.1007/s11356-023-28692-6)
@@ -38,7 +38,7 @@ Global warming attributed to the emission of greenhouse gases has caused unprece
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGRASS Conference 2023</div><img src='images/IGRASS2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGRASS Conference 2023</div><img src='/images/IGRASS2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Spatiotemporal disparity and environmental inequality in fossil fuel carbon emissions in china: 2010-2019](https://ieeexplore.ieee.org/document/10282947) 
@@ -50,7 +50,7 @@ High carbon emissions (CE) have unbalanced the carbon cycle patterns on Earth, r
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS Conference 2022</div><img src='images/ISPRS2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS Conference 2022</div><img src='/images/ISPRS2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Changes of spatial disparities in satellite-derived pm2.5 exposures over 2010–2019 in china](https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/V-3-2022/297/2022/) 
