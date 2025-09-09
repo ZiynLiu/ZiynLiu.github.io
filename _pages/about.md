@@ -44,17 +44,18 @@ Currently, my research interests focus on the interplay among **Environment**, *
 ![microsoftexcel](https://img.shields.io/badge/microsoftexcel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 # 📖 Educations
-- **M.S.** *2022.09-2025.06 (now)*, Chang'an University, Xi'an, Land Resource Management;
+- **PhD candidate** *2025.06-*, Chinese Academic of Sciences, NIEER, Physical Geography;
+- **M.S.** *2022.09-2025.06*, Chang'an University, Xi'an, Land Resource Management;
 - **B.S.** *2018.09-2022.06*, Chang'an University, Xi'an, Land Resource Management;
 
 
 # 📝 Selected Publications 
 
-[1] **Liu Z**, Han L, Li L. Revealing the non-linear and interacting effect of six subcategories’ construction land on energy-related carbon emissions based on interpretable machine learning: Evidence from 2859 counties in China[J]. Sustainable Futures, 2025, 10: 101075.
-[2] **Liu Z**, Han L, Liu M. High-resolution carbon emission mapping and spatial-temporal analysis based on multi-source geographic data: a case study in Xi’an city, China[J]. Environmental Pollution, 2024, 361: 124879.
-[3] Liu M, **Liu Z**, Zhou G, et al. Spatiotemporal disparity and environmental inequality in fossil fuel carbon emissions in china: 2010-2019[C]//IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium. Pasadena, CA, USA: IEEE, 2023: 2099-2102.
-[4] **Liu Z**, Han L, Liu M. Spatiotemporal characteristics of carbon emissions in shaanxi, china, during 2012–2019: a machine learning method with multiple variables[J]. Environmental Science and Pollution Research, 2023, 30(37): 87535-87548.
-[5] Liu M, Zhou G, **Liu Z**, et al. Changes of spatial disparities in satellite-derived pm2.5 exposures over 2010–2019 in china[C]//ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences: V-3-2022. 2022: 297-302.
+- [1] **Liu Z**, Han L, Li L. Revealing the non-linear and interacting effect of six subcategories’ construction land on energy-related carbon emissions based on interpretable machine learning: Evidence from 2859 counties in China[J]. Sustainable Futures, 2025, 10: 101075.
+- [2] **Liu Z**, Han L, Liu M. High-resolution carbon emission mapping and spatial-temporal analysis based on multi-source geographic data: a case study in Xi’an city, China[J]. Environmental Pollution, 2024, 361: 124879.
+- [3] Liu M, **Liu Z**, Zhou G, et al. Spatiotemporal disparity and environmental inequality in fossil fuel carbon emissions in china: 2010-2019[C]//IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium. Pasadena, CA, USA: IEEE, 2023: 2099-2102.
+- [4] **Liu Z**, Han L, Liu M. Spatiotemporal characteristics of carbon emissions in shaanxi, china, during 2012–2019: a machine learning method with multiple variables[J]. Environmental Science and Pollution Research, 2023, 30(37): 87535-87548.
+- [5] Liu M, Zhou G, **Liu Z**, et al. Changes of spatial disparities in satellite-derived pm2.5 exposures over 2010–2019 in china[C]//ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences: V-3-2022. 2022: 297-302.
 
 
 
